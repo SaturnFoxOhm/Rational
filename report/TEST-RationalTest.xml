@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="LAPTOP-57JF92JF" name="RationalTest" skipped="0" tests="7" time="0.038" timestamp="2023-09-12T09:14:43">
+  <properties>
+    <property name="ant.library.dir" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\ant\lib" />
+    <property name="ant.file.type" value="file" />
+    <property name="java.specification.version" value="17" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="Cp1252" />
+    <property name="java.class.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\gluegen.rt;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.base;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.compiler;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.datatransfer;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.desktop;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.instrument;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.logging;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.management;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.management.rmi;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.naming;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.net.http;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.prefs;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.rmi;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.scripting;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.se;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.security.jgss;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.security.sasl;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.smartcardio;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.sql;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.sql.rowset;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.transaction.xa;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.xml;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\java.xml.crypto;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jcef;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.accessibility;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.attach;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.charsets;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.compiler;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.crypto.cryptoki;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.crypto.ec;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.crypto.mscapi;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.dynalink;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.hotspot.agent;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.httpserver;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.internal.ed;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.internal.jvmstat;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.internal.le;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.internal.vm.ci;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.javadoc;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.jcmd;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.jdi;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.jdwp.agent;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.jfr;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.jsobject;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.localedata;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.management;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.management.agent;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.management.jfr;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.naming.dns;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.naming.rmi;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.net;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.sctp;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.security.auth;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.security.jgss;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.unsupported;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.unsupported.desktop;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.xml.dom;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jdk.zipfs;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr!\jogl.all;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\ant\lib\ant.jar;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\idea_rt.jar" />
+    <property name="java.vm.vendor" value="JetBrains s.r.o." />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="user.variant" value="" />
+    <property name="java.vendor.url" value="https://openjdk.java.net/" />
+    <property name="java.vm.specification.version" value="17" />
+    <property name="os.name" value="Windows 11" />
+    <property name="user.country" value="US" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="sun.boot.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr\bin" />
+    <property name="sun.java.command" value="com.intellij.rt.ant.execution.AntMain2 -logger com.intellij.rt.ant.execution.IdeaAntLogger2 -inputhandler com.intellij.rt.ant.execution.IdeaInputHandler -buildfile C:\Users\sukpa\Downloads\Rational-master\Rational-master\build.xml test" />
+    <property name="jdk.debug" value="release" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="user.home" value="C:\Users\sukpa" />
+    <property name="user.language" value="en" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.version.date" value="2023-01-17" />
+    <property name="java.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr" />
+    <property name="file.separator" value="\" />
+    <property name="basedir" value="C:\Users\sukpa\Downloads\Rational-master\Rational-master" />
+    <property name="java.vm.compressedOopsMode" value="32-bit" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="ant.java.version" value="17" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="jbr.virtualization.information" value="Hyper-V role" />
+    <property name="user.script" value="" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="java.runtime.version" value="17.0.6+10-b829.5" />
+    <property name="user.name" value="sukpa" />
+    <property name="ant.file" value="C:\Users\sukpa\Downloads\Rational-master\Rational-master\build.xml" />
+    <property name="path.separator" value=";" />
+    <property name="os.version" value="10.0" />
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="ant.project.invoked-targets" value="test" />
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM" />
+    <property name="java.vendor.version" value="JBR-17.0.6+10-829.5-jcef" />
+    <property name="ant.core.lib" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\ant\lib\ant.jar" />
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/" />
+    <property name="java.io.tmpdir" value="C:\Users\sukpa\AppData\Local\Temp\" />
+    <property name="java.version" value="17.0.6" />
+    <property name="user.dir" value="C:\Users\sukpa\Downloads\Rational-master\Rational-master" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="ant.home" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\lib\ant" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="native.encoding" value="Cp1252" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.12 compiled on October 13 2021" />
+    <property name="java.library.path" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1\jbr\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\sukpa\AppData\Local\Programs\Python\Python39;C:\Users\sukpa\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\sukpa\AppData\Local\Programs\Python\Python39\Lib\site-packages;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\MinGW\bin;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Git\cmd;C:\Program Files\MATLAB\R2021b\bin;C:\Program Files\nodejs\;C:\Program Files\PuTTY\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Bitvise SSH Client;C:\Users\sukpa\AppData\Local\Programs\Python\Python39;C:\Users\sukpa\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\sukpa\AppData\Local\Programs\Python\Python39\Lib\site-packages;C:\Users\sukpa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39;C:\Users\sukpa\AppData\Local\Programs\AdoptOpenJDK\jdk-11.0.9.101-hotspot\bin;C:\Users\sukpa\AppData\Local\Microsoft\WindowsApps;C:\MinGW\bin;C:\Users\sukpa\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sukpa\AppData\Roaming\npm;C:\Users\sukpa\flutter\bin;C:\dart-sdk\bin;;." />
+    <property name="java.vendor" value="JetBrains s.r.o." />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="java.vm.version" value="17.0.6+10-b829.5" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="java.class.version" value="61.0" />
+  </properties>
+  <testcase classname="RationalTest" name="testAdd" time="0.004" />
+  <testcase classname="RationalTest" name="testSubtract" time="0.0" />
+  <testcase classname="RationalTest" name="testEqual" time="0.0" />
+  <testcase classname="RationalTest" name="testToString" time="0.003" />
+  <testcase classname="RationalTest" name="testCompareTo" time="0.0" />
+  <testcase classname="RationalTest" name="testDivide" time="0.0" />
+  <testcase classname="RationalTest" name="testMultiply" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
